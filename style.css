@@ -1,0 +1,60 @@
+.download-link {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+.link {
+  text-align: center;
+}
+
+.video {
+  text-align: center;
+}
+
+.third-line {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+  text-align: center;
+}
+
+.fourth-line {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+.camp-pic {
+  text-align: center;
+}
+
+.logo {
+  text-align: center;
+}
+
+.five {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+  text-align: center;
+}
+
+.copyright {
+  text-align: right;
+  color: gray;
+}
